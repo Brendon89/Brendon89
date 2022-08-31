@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Brendon89
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning Power BI(DAX) and Python
+- 📫 You can reach me on my email brendonmakara@gmail.com
