@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Brendon89
-- 👀 I’m interested in data analysis and developing software
-- 🌱 I’m currently learning Power BI(DAX) and Python
+- 👀 Data Analyst
+- Diploma in Software Development
 - 📫 You can reach me on my email brendonmakara@gmail.com
